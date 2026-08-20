@@ -1,7 +1,7 @@
 ###filtering
 #equal,less,greater-any number, string
 import pandas as pd
-df= pd.read_csv("titanictrain.csv")
+df= pd.read_csv("../titanictrain.csv")
 dead= df[df["Survived"]== False]
 print(dead["Name"])
 

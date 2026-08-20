@@ -1,11 +1,11 @@
 import pandas as pd
 ##csv file import
-df= pd.read_csv("titanictrain.csv")
+df= pd.read_csv("../titanictrain.csv")
 
 print(df.to_string()) ####all file load
 
 #json file import
-df = pd.read_json("titanic.json")
+df = pd.read_json("../titanic.json")
 print(df.to_string())
 
 ##selection
@@ -15,7 +15,7 @@ print(df[["Age","Fare","Sex"]])
 
 # selection by row
 print(df.loc[1])
-df= pd.read_csv("titanictrain.csv", index_col="Age")
+df= pd.read_csv("../titanictrain.csv", index_col="Age")
 print(df.loc[30, ["PassengerId","Survived"]])
 
 ##int based slicing

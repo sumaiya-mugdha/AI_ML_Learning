@@ -1,5 +1,5 @@
 import pandas as pd
-df= pd.read_csv("titanictrain.csv")
+df= pd.read_csv("../titanictrain.csv")
 
 ###missing values
 ##drop the coloum
