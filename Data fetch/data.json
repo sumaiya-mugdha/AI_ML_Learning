@@ -1,0 +1,3894 @@
+[
+  {
+    "name": "CBC",
+    "price": "400",
+    "discount_price": "No Discount",
+    "report_time": "24 hours",
+    "times_booked": "8120"
+  },
+  {
+    "name": "Serum Creatinine",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "5178"
+  },
+  {
+    "name": "Serum Electrolytes",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "3158"
+  },
+  {
+    "name": "Urine Routine Examination (Urine R/E)",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "2862"
+  },
+  {
+    "name": "CBC, ESR",
+    "price": "600",
+    "discount_price": "No Discount",
+    "report_time": "24 hours",
+    "times_booked": "2189"
+  },
+  {
+    "name": "Thyroid Stimulating Hormone (TSH)",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "2140"
+  },
+  {
+    "name": "Dengue NS1 Ag",
+    "price": "300",
+    "discount_price": "No Discount",
+    "report_time": "21 hours",
+    "times_booked": "1992"
+  },
+  {
+    "name": "Lipid Profile (Fasting/Regular)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1905"
+  },
+  {
+    "name": "ALT (SGPT)",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "1865"
+  },
+  {
+    "name": "HbA1c",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "1456"
+  },
+  {
+    "name": "Fasting Plasma glucose (FBS)",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "1346"
+  },
+  {
+    "name": "Dengue Package",
+    "price": "1000",
+    "discount_price": "999",
+    "report_time": "24 hours",
+    "times_booked": "1129"
+  },
+  {
+    "name": "C- Reactive Protein (CRP)",
+    "price": "600",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "1095"
+  },
+  {
+    "name": "Serum Uric Acid",
+    "price": "600",
+    "discount_price": "480",
+    "report_time": "12 hours",
+    "times_booked": "919"
+  },
+  {
+    "name": "Random Plasma glucose (RBS)",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "906"
+  },
+  {
+    "name": "Liver Function Test (LFT)",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "760"
+  },
+  {
+    "name": "Urine for C/S",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "120 hours",
+    "times_booked": "710"
+  },
+  {
+    "name": "Plasma glucose 2 hrs ABF",
+    "price": "350",
+    "discount_price": "280",
+    "report_time": "12 hours",
+    "times_booked": "540"
+  },
+  {
+    "name": "Free T4 (FT4)",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "511"
+  },
+  {
+    "name": "Serum Calcium",
+    "price": "600",
+    "discount_price": "480",
+    "report_time": "12 hours",
+    "times_booked": "462"
+  },
+  {
+    "name": "Vitamin D ( 25 - OH )",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "450"
+  },
+  {
+    "name": "Bilirubin (Total)",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "444"
+  },
+  {
+    "name": "ICT for Chikungunya (IgG & IgM)",
+    "price": "1200",
+    "discount_price": "1020",
+    "report_time": "12 hours",
+    "times_booked": "408"
+  },
+  {
+    "name": "ICT for Dengue Antibodies: (IgG & IgM)",
+    "price": "300",
+    "discount_price": "No Discount",
+    "report_time": "23 hours",
+    "times_booked": "388"
+  },
+  {
+    "name": "Blood Group & RH Factor",
+    "price": "300",
+    "discount_price": "255",
+    "report_time": "12 hours",
+    "times_booked": "379"
+  },
+  {
+    "name": "Serum Albumin",
+    "price": "600",
+    "discount_price": "480",
+    "report_time": "12 hours",
+    "times_booked": "372"
+  },
+  {
+    "name": "eGFR (MDRD)",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "315"
+  },
+  {
+    "name": "HB% (Hemoglobin)",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "257"
+  },
+  {
+    "name": "Testosterone",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "24 hours",
+    "times_booked": "243"
+  },
+  {
+    "name": "HBsAg (ELISA)",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "239"
+  },
+  {
+    "name": "Serum Urea",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "239"
+  },
+  {
+    "name": "Widal Test",
+    "price": "600",
+    "discount_price": "480",
+    "report_time": "12 hours",
+    "times_booked": "238"
+  },
+  {
+    "name": "Beta HCG",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "235"
+  },
+  {
+    "name": "AST (SGOT)",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "232"
+  },
+  {
+    "name": "Kidney Function Test (KFT)",
+    "price": "1900",
+    "discount_price": "1520",
+    "report_time": "12 hours",
+    "times_booked": "225"
+  },
+  {
+    "name": "OGTT-2 Samples (FBS+2Hrs 75g Post Glucose Load)",
+    "price": "700",
+    "discount_price": "560",
+    "report_time": "24 hours",
+    "times_booked": "224"
+  },
+  {
+    "name": "Blood for C/S (FAN Method)",
+    "price": "2000",
+    "discount_price": "1700",
+    "report_time": "120 hours",
+    "times_booked": "222"
+  },
+  {
+    "name": "Total IgE",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "217"
+  },
+  {
+    "name": "Prothrombin Time (INR)",
+    "price": "800",
+    "discount_price": "640",
+    "report_time": "12 hours",
+    "times_booked": "211"
+  },
+  {
+    "name": "Ferritin",
+    "price": "1200",
+    "discount_price": "960",
+    "report_time": "12 hours",
+    "times_booked": "210"
+  },
+  {
+    "name": "Cholesterol (Total)",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "205"
+  },
+  {
+    "name": "Urine ACR (Albumin-Creatinine Ratio)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "164"
+  },
+  {
+    "name": "FT3, FT4, TSH",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "154"
+  },
+  {
+    "name": "Iron Profile",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "149"
+  },
+  {
+    "name": "Magnesium",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "146"
+  },
+  {
+    "name": "Vitamin B-12",
+    "price": "2500",
+    "discount_price": "2000",
+    "report_time": "24 hours",
+    "times_booked": "140"
+  },
+  {
+    "name": "Alkaline phosphatase",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "130"
+  },
+  {
+    "name": "Prolactin",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "126"
+  },
+  {
+    "name": "Serum Inorganic Phosphate (PO4)",
+    "price": "600",
+    "discount_price": "480",
+    "report_time": "12 hours",
+    "times_booked": "110"
+  },
+  {
+    "name": "Triglycerides (Tg)",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "24 hours",
+    "times_booked": "107"
+  },
+  {
+    "name": "HOMA IR/Insulin Resistance Index (HOMA-IR)",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "22 hours",
+    "times_booked": "106"
+  },
+  {
+    "name": "ESR",
+    "price": "200",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "105"
+  },
+  {
+    "name": "Stool Routine Examination",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "103"
+  },
+  {
+    "name": "Hb Electrophoresis",
+    "price": "1600",
+    "discount_price": "1280",
+    "report_time": "120 hours",
+    "times_booked": "98"
+  },
+  {
+    "name": "Anti HCV",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "95"
+  },
+  {
+    "name": "Bilirubin (D/I)",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "94"
+  },
+  {
+    "name": "R. A. Test (Titre)",
+    "price": "800",
+    "discount_price": "640",
+    "report_time": "12 hours",
+    "times_booked": "93"
+  },
+  {
+    "name": "PSA",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "48 hours",
+    "times_booked": "92"
+  },
+  {
+    "name": "Vitamin Profile (Extended)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "92"
+  },
+  {
+    "name": "Potassium (K)",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "92"
+  },
+  {
+    "name": "CBC with PBF",
+    "price": "800",
+    "discount_price": "720",
+    "report_time": "24 hours",
+    "times_booked": "89"
+  },
+  {
+    "name": "VDRL",
+    "price": "600",
+    "discount_price": "510",
+    "report_time": "12 hours",
+    "times_booked": "89"
+  },
+  {
+    "name": "HIV I & II",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "48 hours",
+    "times_booked": "89"
+  },
+  {
+    "name": "Peripheral Blood Film (PBF)",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "89"
+  },
+  {
+    "name": "Plasma glucose 2 hrs after 75gm glucose",
+    "price": "350",
+    "discount_price": "280",
+    "report_time": "12 hours",
+    "times_booked": "88"
+  },
+  {
+    "name": "Full Body Checkup",
+    "price": "15440",
+    "discount_price": "12384",
+    "report_time": "12 hours",
+    "times_booked": "86"
+  },
+  {
+    "name": "NT-proBNP",
+    "price": "3000",
+    "discount_price": "2400",
+    "report_time": "12 hours",
+    "times_booked": "86"
+  },
+  {
+    "name": "Vaccine AROGGA",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "10 hours",
+    "times_booked": "78"
+  },
+  {
+    "name": "Ammonia",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "71"
+  },
+  {
+    "name": "Iron",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "70"
+  },
+  {
+    "name": "T4",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "69"
+  },
+  {
+    "name": "Febrile Antigens",
+    "price": "1200",
+    "discount_price": "1020",
+    "report_time": "12 hours",
+    "times_booked": "66"
+  },
+  {
+    "name": "Anti-CCP",
+    "price": "2000",
+    "discount_price": "1600",
+    "report_time": "12 hours",
+    "times_booked": "65"
+  },
+  {
+    "name": "FSH",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "63"
+  },
+  {
+    "name": "Anti Mullerian Hormone (AMH)",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "61"
+  },
+  {
+    "name": "Cortisol (Morning)/BASAL CORTISOL (RANDOM)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "61"
+  },
+  {
+    "name": "Cardiac Troponin-I (ES)/Troponin-I (ICT)",
+    "price": "1200",
+    "discount_price": "960",
+    "report_time": "12 hours",
+    "times_booked": "60"
+  },
+  {
+    "name": "2 hrs postprandial Plasma glucose",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "60"
+  },
+  {
+    "name": "Intact PTH",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "59"
+  },
+  {
+    "name": "BUN",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "59"
+  },
+  {
+    "name": "COVID-19 Rapid Antigen Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "59"
+  },
+  {
+    "name": "Free T3 (FT3)",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "58"
+  },
+  {
+    "name": "CEA",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "22 hours",
+    "times_booked": "56"
+  },
+  {
+    "name": "Renal Function Test (RFT)",
+    "price": "2900",
+    "discount_price": "2030",
+    "report_time": "24 hours",
+    "times_booked": "55"
+  },
+  {
+    "name": "Sexual Transmitted Disease (STD) Test Package",
+    "price": "8120",
+    "discount_price": "6343",
+    "report_time": "120 hours",
+    "times_booked": "54"
+  },
+  {
+    "name": "ICT for HBsAg",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "24 hours",
+    "times_booked": "54"
+  },
+  {
+    "name": "Lactate",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "53"
+  },
+  {
+    "name": "LH",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "50"
+  },
+  {
+    "name": "CA 19-9",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "50"
+  },
+  {
+    "name": "CA 125",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "50"
+  },
+  {
+    "name": "Haemoglobin/HGB",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "50"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 2 hr. ABF",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "50"
+  },
+  {
+    "name": "D - Dimer",
+    "price": "1500",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "49"
+  },
+  {
+    "name": "Vitamin D3/D2",
+    "price": "6000",
+    "discount_price": "4800",
+    "report_time": "120 hours",
+    "times_booked": "48"
+  },
+  {
+    "name": "Pregnancy Test (HCG Level)",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "48"
+  },
+  {
+    "name": "Insulin (Fasting)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "46"
+  },
+  {
+    "name": "Anti Nuclear Ab (ANA)",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "46"
+  },
+  {
+    "name": "Free Testosterone",
+    "price": "2000",
+    "discount_price": "1600",
+    "report_time": "24 hours",
+    "times_booked": "44"
+  },
+  {
+    "name": "Lipase",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "43"
+  },
+  {
+    "name": "Platelets Count",
+    "price": "300",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "41"
+  },
+  {
+    "name": "Urine for Pregnancy Test",
+    "price": "300",
+    "discount_price": "255",
+    "report_time": "12 hours",
+    "times_booked": "39"
+  },
+  {
+    "name": "T3",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "39"
+  },
+  {
+    "name": "Stool for C/S",
+    "price": "1500",
+    "discount_price": "1275",
+    "report_time": "120 hours",
+    "times_booked": "39"
+  },
+  {
+    "name": "Anti- TPO Ab",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "72 hours",
+    "times_booked": "38"
+  },
+  {
+    "name": "Diabetes Health Check Package",
+    "price": "2760",
+    "discount_price": "2208",
+    "report_time": "24 hours",
+    "times_booked": "36"
+  },
+  {
+    "name": "Progesterone",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "48 hours",
+    "times_booked": "36"
+  },
+  {
+    "name": "Comprehensive Health Assessment Package",
+    "price": "3400",
+    "discount_price": "2800",
+    "report_time": "24 hours",
+    "times_booked": "33"
+  },
+  {
+    "name": "Spot Urine Creatinine",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "33"
+  },
+  {
+    "name": "Oestrogen/Estradiol (E2)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "33"
+  },
+  {
+    "name": "H. Pylori - IgG",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "32"
+  },
+  {
+    "name": "LDL - Cholesterol",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "31"
+  },
+  {
+    "name": "Folate / Folic Acid",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "46 hours",
+    "times_booked": "31"
+  },
+  {
+    "name": "Stool for H. Pylori Antigen",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "24 hours",
+    "times_booked": "31"
+  },
+  {
+    "name": "Serum Procalcitonin",
+    "price": "2000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "30"
+  },
+  {
+    "name": "GGT (Gamma-Glutamyl Transferase)",
+    "price": "1200",
+    "discount_price": "960",
+    "report_time": "12 hours",
+    "times_booked": "30"
+  },
+  {
+    "name": "Serum Amylase",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "30"
+  },
+  {
+    "name": "Total Iron Binding Capacity (TIBC)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "29"
+  },
+  {
+    "name": "QuantiFERON-TB Gold Plus",
+    "price": "8000",
+    "discount_price": "6800",
+    "report_time": "120 hours",
+    "times_booked": "27"
+  },
+  {
+    "name": "High Sensitive Troponin-I",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "27"
+  },
+  {
+    "name": "LDH",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "27"
+  },
+  {
+    "name": "Anti HBs",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "26"
+  },
+  {
+    "name": "Anti HBc (Total)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "26"
+  },
+  {
+    "name": "ACTH",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "26"
+  },
+  {
+    "name": "Spot Urine Potassium (K)",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "26"
+  },
+  {
+    "name": "Urine for Albumin",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "25"
+  },
+  {
+    "name": "APTT",
+    "price": "1200",
+    "discount_price": "960",
+    "report_time": "12 hours",
+    "times_booked": "25"
+  },
+  {
+    "name": "Allergy profile",
+    "price": "8000",
+    "discount_price": "6400",
+    "report_time": "120 hours",
+    "times_booked": "25"
+  },
+  {
+    "name": "TC, DC, Hb%, ESR",
+    "price": "500",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "24"
+  },
+  {
+    "name": "Stool for Occult Blood Test",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "24"
+  },
+  {
+    "name": "Alpha Feto Protein",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "24"
+  },
+  {
+    "name": "HSV 1 & 2 - IgG",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "22"
+  },
+  {
+    "name": "C-Peptide",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "22"
+  },
+  {
+    "name": "HDL - Cholesterol",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "21"
+  },
+  {
+    "name": "CPK",
+    "price": "1400",
+    "discount_price": "980",
+    "report_time": "12 hours",
+    "times_booked": "20"
+  },
+  {
+    "name": "Anti HAV - (IgM)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "20"
+  },
+  {
+    "name": "Valproic Acid",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "20"
+  },
+  {
+    "name": "HLA-B27 Genotyping",
+    "price": "4000",
+    "discount_price": "3400",
+    "report_time": "12 hours",
+    "times_booked": "20"
+  },
+  {
+    "name": "Apolipoproteins B (APO-B)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "20"
+  },
+  {
+    "name": "SHBG",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "48 hours",
+    "times_booked": "19"
+  },
+  {
+    "name": "Malarial Parasite",
+    "price": "300",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "19"
+  },
+  {
+    "name": "Cortisol",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "19"
+  },
+  {
+    "name": "Rubella - IgG",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "48 hours",
+    "times_booked": "19"
+  },
+  {
+    "name": "Typhoid and Paratyphoid Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "19"
+  },
+  {
+    "name": "Spot Urine Uric Acid",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "19"
+  },
+  {
+    "name": "Spot Urine Protein",
+    "price": "700",
+    "discount_price": "560",
+    "report_time": "12 hours",
+    "times_booked": "19"
+  },
+  {
+    "name": "Spot Urine Protein Creatinine Ratio",
+    "price": "1100",
+    "discount_price": "880",
+    "report_time": "12 hours",
+    "times_booked": "18"
+  },
+  {
+    "name": "Corresponding Urine Sugar with Fasting",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "18"
+  },
+  {
+    "name": "GTT 1st",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "18"
+  },
+  {
+    "name": "Spot Urine Calcium Creatinine Ratio",
+    "price": "1100",
+    "discount_price": "880",
+    "report_time": "12 hours",
+    "times_booked": "18"
+  },
+  {
+    "name": "Eid Wellness Plus",
+    "price": "2020",
+    "discount_price": "1520",
+    "report_time": "24 hours",
+    "times_booked": "18"
+  },
+  {
+    "name": "PCR for Dengue & Chikungunya",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "168 hours",
+    "times_booked": "17"
+  },
+  {
+    "name": "MMR Immunity Profile (IgG) Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "17"
+  },
+  {
+    "name": "Plasma glucose 2 hrs after lunch",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "17"
+  },
+  {
+    "name": "H. Pylori Antibody",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "17"
+  },
+  {
+    "name": "Anti-ds DNA",
+    "price": "1600",
+    "discount_price": "1280",
+    "report_time": "12 hours",
+    "times_booked": "17"
+  },
+  {
+    "name": "Total Protein",
+    "price": "700",
+    "discount_price": "560",
+    "report_time": "12 hours",
+    "times_booked": "17"
+  },
+  {
+    "name": "Chikungunya Virus, PCR Qualitative",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "168 hours",
+    "times_booked": "16"
+  },
+  {
+    "name": "Executive Basic Checkup for Female",
+    "price": "10210",
+    "discount_price": "8168",
+    "report_time": "12 hours",
+    "times_booked": "16"
+  },
+  {
+    "name": "Urine for Microalbumin",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "16"
+  },
+  {
+    "name": "Tacrolimus Blood Level",
+    "price": "4000",
+    "discount_price": "3400",
+    "report_time": "12 hours",
+    "times_booked": "16"
+  },
+  {
+    "name": "VDRL (Qty)",
+    "price": "1200",
+    "discount_price": "1020",
+    "report_time": "12 hours",
+    "times_booked": "16"
+  },
+  {
+    "name": "Lithium",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "24 hours",
+    "times_booked": "16"
+  },
+  {
+    "name": "Albumin Globulin Ratio",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "16"
+  },
+  {
+    "name": "Executive Basic Checkup for Male",
+    "price": "11260",
+    "discount_price": "9000",
+    "report_time": "12 hours",
+    "times_booked": "15"
+  },
+  {
+    "name": "Sodium (Na)",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "15"
+  },
+  {
+    "name": "DHEA - SO4",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "120 hours",
+    "times_booked": "15"
+  },
+  {
+    "name": "Urine C/S for Anerobic",
+    "price": "1500",
+    "discount_price": "1275",
+    "report_time": "12 hours",
+    "times_booked": "15"
+  },
+  {
+    "name": "Plasma glucose 2 hrs after meal",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "15"
+  },
+  {
+    "name": "Anti Thyroid Ab",
+    "price": "2500",
+    "discount_price": "2000",
+    "report_time": "12 hours",
+    "times_booked": "15"
+  },
+  {
+    "name": "IgM",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "14"
+  },
+  {
+    "name": "Fecal Calprotectin (fCAL)",
+    "price": "5000",
+    "discount_price": "4000",
+    "report_time": "72 hours",
+    "times_booked": "14"
+  },
+  {
+    "name": "ICT for Chikungunya IgM",
+    "price": "1200",
+    "discount_price": "1020",
+    "report_time": "12 hours",
+    "times_booked": "14"
+  },
+  {
+    "name": "Serum Bile Acid",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "13"
+  },
+  {
+    "name": "Stool for Reducing Substance",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "13"
+  },
+  {
+    "name": "IgG",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "24 hours",
+    "times_booked": "13"
+  },
+  {
+    "name": "Total HCG",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "13"
+  },
+  {
+    "name": "Smart Health Check",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "Basic Allergy Screening Panel",
+    "price": "1900",
+    "discount_price": "1600",
+    "report_time": "24 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "Varicella Zoster Virus (VZV) IgG",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "Cardiac Screening package",
+    "price": "8600",
+    "discount_price": "6880",
+    "report_time": "12 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "ICT for Malaria (p.f/p.v)",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "Homocysteine",
+    "price": "3000",
+    "discount_price": "2400",
+    "report_time": "48 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "Anti HEV - IgM",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "ASO Titre",
+    "price": "800",
+    "discount_price": "680",
+    "report_time": "12 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "GTT 2nd",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "Spot Urine Sodium (Na)",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "12"
+  },
+  {
+    "name": "ECHINOCOCCUS IgG",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "11"
+  },
+  {
+    "name": "Urine for Ketone Bodies",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "11"
+  },
+  {
+    "name": "Micro Albumin Creatinine Ratio",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "11"
+  },
+  {
+    "name": "Weil Felix Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "11"
+  },
+  {
+    "name": "Protein Electrophoresis",
+    "price": "1600",
+    "discount_price": "1280",
+    "report_time": "168 hours",
+    "times_booked": "10"
+  },
+  {
+    "name": "CA 15-3",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "10"
+  },
+  {
+    "name": "Postprandial Plasma glucose",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "10"
+  },
+  {
+    "name": "HBV-DNA (Quantitative)",
+    "price": "7000",
+    "discount_price": "5950",
+    "report_time": "119 hours",
+    "times_booked": "10"
+  },
+  {
+    "name": "Serum Chlamydia IgG",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "120 hours",
+    "times_booked": "10"
+  },
+  {
+    "name": "Urine Albumin Creatinine Ratio (ACR)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "10"
+  },
+  {
+    "name": "Glucose (2 Hours After Lunch)/2 Hours After Meal",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "2 Hours",
+    "times_booked": "10"
+  },
+  {
+    "name": "Pre-Marital Check-up program (Male/Female)",
+    "price": "8360",
+    "discount_price": "6768",
+    "report_time": "24 hours",
+    "times_booked": "9"
+  },
+  {
+    "name": "Lupus Anticoagulants",
+    "price": "5000",
+    "discount_price": "4000",
+    "report_time": "72 hours",
+    "times_booked": "9"
+  },
+  {
+    "name": "Plasma glucose 2 hrs ABF (With Tablet / Insulin)",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "9"
+  },
+  {
+    "name": "TPHA",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "24 hours",
+    "times_booked": "9"
+  },
+  {
+    "name": "TISSUE TRANSGLUTAMINASE (tTG)-IgA ANTIBODIES",
+    "price": "2000",
+    "discount_price": "1600",
+    "report_time": "120 hours",
+    "times_booked": "9"
+  },
+  {
+    "name": "ELISA Test for Dengue Ab.",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "9"
+  },
+  {
+    "name": "RH Antibody Titre (Qualitative)/Anti D Titre.",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "8"
+  },
+  {
+    "name": "Urinary Osmolality",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "8"
+  },
+  {
+    "name": "Reticulocyte Count",
+    "price": "300",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "8"
+  },
+  {
+    "name": "Spot Urine Electrolytes/Electrolytes Urine",
+    "price": "1200",
+    "discount_price": "960",
+    "report_time": "12 hours",
+    "times_booked": "8"
+  },
+  {
+    "name": "Plasma glucose 2 hrs after Iftar",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "8"
+  },
+  {
+    "name": "Serum Osmolality",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "8"
+  },
+  {
+    "name": "FDP - Fibrin Degradation Product (Quantitative) Test",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "24 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "ICT for Salmonella/Typhoid Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "TSH receptor antibodies (TRAb)",
+    "price": "3000",
+    "discount_price": "2400",
+    "report_time": "120 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "Cortisol (Evening)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "P-ANCA",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "C-ANCA",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "Anti Phospholipid Antibody",
+    "price": "2000",
+    "discount_price": "1600",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "17 Hydroxy Progesterone",
+    "price": "2500",
+    "discount_price": "2000",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "HSV 1 & 2 - IgM",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "Free Testosterone (Pooled Serum)",
+    "price": "2000",
+    "discount_price": "1600",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "Circulating Eosinophil Count",
+    "price": "400",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "MCV",
+    "price": "200",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "STP AG Ratio",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "7"
+  },
+  {
+    "name": "Karyotyping",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "600 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "C1 Esterase Inhibitor",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "Complement 4 (C4)",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "48 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "Complement 3 (C3) test",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "48 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 1.5 hr. after 75 gm Glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "CMV - IgG",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "Bicarbonate (HCO3)",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "Anti-Cardiolipin antibody",
+    "price": "2000",
+    "discount_price": "1600",
+    "report_time": "12 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "Calcitonin",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "Urinary Inorganic Phosphate (PO4)",
+    "price": "600",
+    "discount_price": "480",
+    "report_time": "12 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "Thyroid Check up",
+    "price": "4000",
+    "discount_price": "2800",
+    "report_time": "24 hours",
+    "times_booked": "6"
+  },
+  {
+    "name": "S. IgM for H.pylori",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "5α- DIHYDROTESTOSTERONE (5α- DHT)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "DRUG PANEL 4",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "Total Acid Phosphatase",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "Phenytoin/Dilantin/Eptoin",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "Interleukin-6",
+    "price": "2200",
+    "discount_price": "1760",
+    "report_time": "48 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "HCT",
+    "price": "250",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "Pancreatic Amylase",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "GTT 3rd",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "Glucose Tolerance Test 3 hrs",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "Cannabinoids",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "5"
+  },
+  {
+    "name": "Aldosterone Renin Ratio",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "4"
+  },
+  {
+    "name": "VITAMIN B6/PYRIDOXAL - 5 - PHOSPHATE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "7 hours",
+    "times_booked": "4"
+  },
+  {
+    "name": "HSV 2 - IgM",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "4"
+  },
+  {
+    "name": "Spot Urine for Urea",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "4"
+  },
+  {
+    "name": "Plasma glucose 2 hrs after 70 gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "4"
+  },
+  {
+    "name": "Plasma glucose 1 hour after 75gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "1 hour",
+    "times_booked": "4"
+  },
+  {
+    "name": "Coombs Test Direct",
+    "price": "600",
+    "discount_price": "510",
+    "report_time": "12 hours",
+    "times_booked": "4"
+  },
+  {
+    "name": "Cystatin C Serum",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "4"
+  },
+  {
+    "name": "Glucose-6 Phosphate Dehydrogenase (G6PD)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Nicotine Metabolites",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "167 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "SERUM AMYLOID A PROTEIN",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Brain Stroke Screening",
+    "price": "6500",
+    "discount_price": "5400",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "TC - RBC",
+    "price": "200",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Spot Urine Chloride (Cl)/Chloride Urine",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Copper",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Protein S",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Protein C",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "HBe Ag",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Erythropoietin(EPO)",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "ENA Profile",
+    "price": "8000",
+    "discount_price": "6400",
+    "report_time": "72 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Benzodiazepines",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Transferrin saturation test",
+    "price": "2000",
+    "discount_price": "1600",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Glucose Tolerance Test 2.5 hrs",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Film/Cell Morphology",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Cyclosporine ( C0 )(B245)",
+    "price": "3000",
+    "discount_price": "2400",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Anti-TG Ab",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "ICT for Syphilis",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Beta 2 Glycoprotein IgM/Anti-B-2 Glycoprotein IgM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "142 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Insulin Antibody",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Immunoglobulin-E (IgE)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Urine for Urobilinogen",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Globulin",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "Digoxin",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "0 hours",
+    "times_booked": "3"
+  },
+  {
+    "name": "PCR Jak-2 Mutation (EXON-14, V617F)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "144 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Basic Metabolic Panel (BMP)",
+    "price": "2900",
+    "discount_price": "2320",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "EPSTEIN BARR VIRAL CAPSID ANTIGEN - IgG",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Elements 22 (Toxic And Nutrients)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Lipoprotein Associated Phospholipasea2 (LP-Pla2)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "MERCURY",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Treponema Pallidum Antibody (TPAB)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "72 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Human Growth Hormone (HGH)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "METHAMPHETAMINE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "SICKLE CELL TEST",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "HEMOGRAM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Urine for Sugar",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "TC - WBC",
+    "price": "200",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Anti Scl-70/Anti Toppoisomerasei",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "121 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Free PSA",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "48 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Fibrinogen",
+    "price": "1100",
+    "discount_price": "880",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Plasma glucose 1 hour ABF/B/S 1 Hrs.ABF",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "1 hour",
+    "times_booked": "2"
+  },
+  {
+    "name": "HSV 1 - IgM",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "72 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Anti HBc - IgM",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Chloride (Cl)",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Anti Hbe",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Angiotensin Converting Enzyme (ACE)",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Urinary Calcium",
+    "price": "600",
+    "discount_price": "480",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Toxo - IgM",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Spot Urine Inorganic Phosphate",
+    "price": "600",
+    "discount_price": "480",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Renin (Upright)",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Plasma glucose 1.5 hrs ABF",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Insulin(PP)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Insulin (Random)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "ICT for Cannabinoids",
+    "price": "700",
+    "discount_price": "560",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "ENA Panel (25 Antibodies)",
+    "price": "15000",
+    "discount_price": "12000",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "DLC",
+    "price": "300",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Corresponding Urine sugar with postprandial plasma glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "CMV - IgM",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "CD20",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Acid Phosphatase",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Growth Hormone Suppression Test",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Serum-ascites albumin gradient(SAAG)",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Ceruloplasmin (BLOOD CP)",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Beta 2 Glycoprotein IgG/Anti-B-2 Glycoprotein IgG",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "144 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Growth Hormone",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Prostate-Specific Antigen (Free) (FPSA)",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Vitamin B Complex",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Serum Ethanol",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Creatinine Clearance Rate",
+    "price": "1100",
+    "discount_price": "880",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "Aldolase",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "2"
+  },
+  {
+    "name": "ALDOSTERONE / PLASMA RENIN DIRECT RATIO",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "168 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "LH/FSH Ratio Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Zika Virus Antibody Test (IgM)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Anti Glomerular Basement Membrane Protein IGG / Anti GBM Ab",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "BONE PROFILE - BASIC",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "FACTOR-V",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "LEPTOSPIRA-IgG",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "168 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Varicella Zoster Virus (VZV) IgM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Anti-Saccharomyces Cerevisiae IgA Antibodies (ASCA IgA)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "BARBITURATES",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Vitamin A",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Rose Waaler (Quantitative)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Protein Profile (TP, ALB, GLB, AGR) Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "PHOSPHOLIPASE A2 RECEPTOR (PLA2R) ANTIBODY QUANTITATIVE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "240 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Urine for AFB",
+    "price": "600",
+    "discount_price": "510",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Urinary Amylase",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Anti-RNP",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "ICT For Tuberculosis",
+    "price": "1400",
+    "discount_price": "1190",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "ICT For Filaria",
+    "price": "1400",
+    "discount_price": "1190",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "HSV 2 - IgG",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "HSV 1 - IgG",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "71 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Factor IX",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "96 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "CK-MB",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Carbondioxide (CO2)",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Bence-Jones Protein",
+    "price": "800",
+    "discount_price": "640",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Rubella - IgM",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Urine Cytology for Malignant Cells",
+    "price": "1200",
+    "discount_price": "1020",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Urine C/S for Fungus",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Toxo - IgG",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Spot Urine Calcium",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Rose Waaler Test (Titre)",
+    "price": "700",
+    "discount_price": "595",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Rh Antibody(Anti- D Ab)",
+    "price": "1200",
+    "discount_price": "1020",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Plasma glucose 3 hrs after 75 gm glucose/B.S.3H AFTER 75GM GLUCOSE",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Plasma glucose 2 hour after 20gm glucose",
+    "price": "230",
+    "discount_price": "184",
+    "report_time": "2 hour",
+    "times_booked": "1"
+  },
+  {
+    "name": "Plasma glucose 1.5 hrs after meal",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Plasma glucose 1 hr after meal",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Plasma glucose 1 hour after 70 gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "1 hour",
+    "times_booked": "1"
+  },
+  {
+    "name": "ICT for Amphitamine",
+    "price": "700",
+    "discount_price": "560",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "HCV Genotyping",
+    "price": "15000",
+    "discount_price": "12750",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "HBsAgQ2",
+    "price": "2500",
+    "discount_price": "2000",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "GTT 5th",
+    "price": "160",
+    "discount_price": "128",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "GTT 4th",
+    "price": "160",
+    "discount_price": "128",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Corresponding Urine Sugar with before Dinner",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 2 hrs after Lunch",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Corresponding Urine Sugar with RPG",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "B2 - Microglobulin",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Aldosterone (Upright)",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Arthritis Profile (COMPREHENSIVE)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Coombs Test (D/I)",
+    "price": "1200",
+    "discount_price": "1020",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Growth Hormone Stimulation Test",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Inhibin B",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "HCV Rna (QUANTITATIVE)",
+    "price": "12000",
+    "discount_price": "9600",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "TORCH Panel",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Herpes Simplex Virus Type 1 Ab IgM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Anti-Rubella IgG",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Androstenedione (A4)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Cyclosporine",
+    "price": "3000",
+    "discount_price": "2400",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "MCHC",
+    "price": "200",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Urine for Bile Salts",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Urine for Bilirubin",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Urinary Urea",
+    "price": "350",
+    "discount_price": "280",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Blood for ADA",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "THYROGLOBULIN (TG) test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "118 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Male Cancer Marker Panel",
+    "price": "6300",
+    "discount_price": "5160",
+    "report_time": "24 hours",
+    "times_booked": "1"
+  },
+  {
+    "name": "Measles (Rubeola) Antibodies Panel: IgG & IgM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "144 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Transferrin Urine",
+    "price": "4000",
+    "discount_price": "2000",
+    "report_time": "48 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Transferrin Serum",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Serum IgM Level",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "2 Hours After 100gm Glucose",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "2 Hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "1 Hour After 50gm Glucose Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "1 Hour",
+    "times_booked": "0"
+  },
+  {
+    "name": "1 Hour After 100 gm Glucose Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "1 Hour",
+    "times_booked": "0"
+  },
+  {
+    "name": "Insulin to C-Peptide Ratio",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "48 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PCR CMV DNA (Qualitative)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "48 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Pregnancy Profile",
+    "price": "7880",
+    "discount_price": "5698",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Renin Activity",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PACU (Pre Anesthetic Check-Up) Test Package",
+    "price": "6200",
+    "discount_price": "4960",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Vitamin D 1,25 Dihydroxy",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "168 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Serum IgA Level (CYTO)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "DC (Differential Count) Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "TUMOUR PANEL (FEMALE)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "48 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Vitamin K Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Vitamin E Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "MANGANESE, BLOOD",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "(CA) CYFRA 21-1; LUNG CANCER MARKER",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "LEPTOSPIRA ANTIBODIES PANEL IgG & IgM, EIA",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Omega-6 to Omega-3",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ISLET CELL ANTIBODY",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Myoglobin-Serum",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "CA 72.4 (GASTRIC CANCER MARKER)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Leptospira-Antibody ICT",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "1 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Liver Kidney Microsomes (LKM)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Arsenic Blood",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "166 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti Centromere Ab",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "72 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Nicotine Urine",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Sm (SMITH) ANTIBODY, IgG",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "IONIC CALCIUM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti-Saccharomyces cerevisiae IgG Antibodies",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "72 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "VITAMIN B7/BIOTIN",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "0 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "VITAMIN B5/PANTOTHENIC",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "VITAMIN B3/NICOTINIC ACID",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "VITAMIN B2/RIBOFLAVIN",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Leptospira-IGM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "BISMUTH",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "BARIUM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti TB IgM+IgG ( ICT )",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "INSULIN 2 HOURS AFT 75 GRAM GLUCOSE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "2 HOURS",
+    "times_booked": "0"
+  },
+  {
+    "name": "CRYPTOCOCCUS LATEX AGGLUTINATION",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "72 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ALPHA 2 MACROGLOBULIN",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ALPHA1 ACID GLYCOPROTEIN",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "COAGULATION PROFILE-1",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Carbamazepine / Tegretol",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "51 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ANTI SCL - 70 ANTIBODY/Anti Toppoisomerasei",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "144 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Entamoeba Histolytica - AG Test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "168 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Cytomegalo Virus (CMV) -IgG",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Cytomegalo Virus (CMV) - IgM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Fructosamine",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "DRUG PANEL 3",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PYRUVATE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "METHADONE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "72 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "KETAMINE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ALPHA HYDROXYBUTYRATE DEHYDROGENASE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PREALBUMIN",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti Microsomal Antibody (AMA)/TPO",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "URINE LIPASE",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "DRUG PANEL 2 test",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "URINE CALCIUM CREATININE RATIO-SPOT",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ENTAMOEBA HISTOLYTICA - IGG TEST",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "N ACETYL BETA D GLUCOSAMINIDASE.",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine PH Test/Urine for PH",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "2 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Thrombin-Antithrombin Complex (TAC)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "72 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "MEAN CORPUSCULAR HEMOGLOBIN; MCH",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "TLC (TOTAL LEUCOCYTE COUNT)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "0 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "CHOLINESTERASE, SERUM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "118 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ANALYZER 18; SMA 18 TEST PANEL",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "TYPHI DOT/ SALMONELLA TYPHI IGM",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urinary V.M.A (Vanilmandelic Acid)",
+    "price": "2500",
+    "discount_price": "2000",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti-Sm",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "IgA",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ICT For Kalazar",
+    "price": "1400",
+    "discount_price": "1190",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Factor VIII",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Factor VII",
+    "price": "3000",
+    "discount_price": "2400",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Brucella & Rickettsia",
+    "price": "800",
+    "discount_price": "680",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti-SS-B",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti-SS-A",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 2 hrs after dinner",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 1 hr. ABF",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "WT1",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Vi Antigen of S. Typhi",
+    "price": "1200",
+    "discount_price": "1020",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for Wet Film",
+    "price": "500",
+    "discount_price": "425",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for RBC (Morphology)",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for Occult blood Test",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine For Leu (Leukocytes)",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for Haemoglobin",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for GeneXpert (MTB)",
+    "price": "6000",
+    "discount_price": "5100",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for Ferric Chloride Test",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for Bile Pigments",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "TTF1",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Serum Immuno Electrophoresis",
+    "price": "5000",
+    "discount_price": "4000",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "S100",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Renin (Supine)",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PMS2",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose before lunch",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 4 hrs after 75 gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 30 minutes after 75gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 2.5 hrs after 75 gm glucose/B.S.2.5 H AFTER 75GM GLUCOSE",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 2 hrs after 50gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 1hr after lunch",
+    "price": "200",
+    "discount_price": "160",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 1.5 hrs after 75gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 1.5 hrs after 70 gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 1.5 hrs after 50gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Plasma glucose 1 hour after 50gm glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "1 hour",
+    "times_booked": "0"
+  },
+  {
+    "name": "Phenobarbital",
+    "price": "1200",
+    "discount_price": "960",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PH",
+    "price": "500",
+    "discount_price": "400",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PCN Tube (Urine) for Specific Gravity",
+    "price": "300",
+    "discount_price": "240",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PCN Tube (Urine) for PH",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "PCN Tube (Urine) for Creatinine",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "P53",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "MSH6",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "MSH2",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "MLH1/2/6",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "LE Cells",
+    "price": "300",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ICT for Opiates",
+    "price": "700",
+    "discount_price": "560",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ICT for Morphine",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ICT for Cocaine",
+    "price": "700",
+    "discount_price": "560",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ICT for Benzodiazepine",
+    "price": "700",
+    "discount_price": "560",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "HER2",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "HCV-RNA (Qn.) PCR",
+    "price": "12000",
+    "discount_price": "10200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "HCV-RNA (Ql.) PCR",
+    "price": "7000",
+    "discount_price": "5950",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "HCVAg(Quantitative)",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Gentamicin",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ER",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Cyclosporine ( C2 )(A245)",
+    "price": "3000",
+    "discount_price": "2400",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Cortisol level before Injection",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Cortisol level 2 hrs. After Injection",
+    "price": "1000",
+    "discount_price": "800",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 2.h after 75 gm Glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Cortisol level 1hr After Injection",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Cortisol level 0.5 hr After Injection",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 1.h after 75 gm Glucose",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 1.5 hr. after Lunch",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Corresponding Urine Sugar with 1.5 hr. ABF",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Corresponding Urine Sugar with before Lunch",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Corresponding Urine Sugar 2 hrs. after meal",
+    "price": "250",
+    "discount_price": "200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Coombs Test Indirect",
+    "price": "600",
+    "discount_price": "510",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "CD34",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "CD15",
+    "price": "4000",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Calory Function Tests",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti-Mitochondrial Antibody",
+    "price": "1800",
+    "discount_price": "1440",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti-Jo-I",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ANA-HEp-2",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "144 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Aldosterone (Supine)",
+    "price": "4000",
+    "discount_price": "3200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Jo-1 ANTIBODY",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Inhibin A",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for AFB Stain",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti-Rubella IgM",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti Thyroglobulin (ATG)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ELISA test for Anti TB IgM",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ELISA test for Anti TB IgG",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "ELISA test for Anti TB IgA",
+    "price": "1500",
+    "discount_price": "1200",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti-Cardiolipin antibody (IgG IgM)",
+    "price": "3000",
+    "discount_price": "2400",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "MCH",
+    "price": "200",
+    "discount_price": "No Discount",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine for Specific Gravity",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine For Nitrite",
+    "price": "400",
+    "discount_price": "320",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Bence Jones Protein, Urine",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Opiates",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Cocaine",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Amphetamine",
+    "price": "1400",
+    "discount_price": "1120",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Urine Amylase",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Aldehyde Test",
+    "price": "1300",
+    "discount_price": "1040",
+    "report_time": "12 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Anti Phospholipid Antibody (IgG IgM)",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "72 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "HAPTOGLOBIN",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "120 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Serum ZINC",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "72 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Female Cancer Marker Panel",
+    "price": "7000",
+    "discount_price": "5600",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  },
+  {
+    "name": "Vital Health Check",
+    "price": "N/A",
+    "discount_price": "N/A",
+    "report_time": "24 hours",
+    "times_booked": "0"
+  }
+]

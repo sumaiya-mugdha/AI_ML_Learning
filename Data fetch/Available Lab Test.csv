@@ -1,0 +1,557 @@
+,name,price,discount_price,report_time,times_booked
+0,CBC,400,No Discount,24 hours,8120
+1,Serum Creatinine,400,320,12 hours,5178
+2,Serum Electrolytes,1000,800,12 hours,3158
+3,Urine Routine Examination (Urine R/E),400,320,12 hours,2862
+4,"CBC, ESR",600,No Discount,24 hours,2189
+5,Thyroid Stimulating Hormone (TSH),1000,800,12 hours,2140
+6,Dengue NS1 Ag,300,No Discount,21 hours,1992
+7,Lipid Profile (Fasting/Regular),1400,1120,12 hours,1905
+8,ALT (SGPT),500,400,12 hours,1865
+9,HbA1c,1500,1200,12 hours,1456
+10,Fasting Plasma glucose (FBS),300,240,12 hours,1346
+11,Dengue Package,1000,999,24 hours,1129
+12,C- Reactive Protein (CRP),600,No Discount,12 hours,1095
+13,Serum Uric Acid,600,480,12 hours,919
+14,Random Plasma glucose (RBS),200,160,12 hours,906
+15,Liver Function Test (LFT),1500,1200,12 hours,760
+16,Urine for C/S,1500,1200,120 hours,710
+17,Plasma glucose 2 hrs ABF,350,280,12 hours,540
+18,Free T4 (FT4),1500,1200,12 hours,511
+19,Serum Calcium,600,480,12 hours,462
+20,Vitamin D ( 25 - OH ),4000,3200,12 hours,450
+21,Bilirubin (Total),500,400,12 hours,444
+22,ICT for Chikungunya (IgG & IgM),1200,1020,12 hours,408
+23,ICT for Dengue Antibodies: (IgG & IgM),300,No Discount,23 hours,388
+24,Blood Group & RH Factor,300,255,12 hours,379
+25,Serum Albumin,600,480,12 hours,372
+26,eGFR (MDRD),1300,1040,12 hours,315
+27,HB% (Hemoglobin),200,160,12 hours,257
+28,Testosterone,1500,1200,24 hours,243
+29,HBsAg (ELISA),1000,800,12 hours,239
+30,Serum Urea,500,400,12 hours,239
+31,Widal Test,600,480,12 hours,238
+32,Beta HCG,1500,1200,12 hours,235
+33,AST (SGOT),500,400,12 hours,232
+34,Kidney Function Test (KFT),1900,1520,12 hours,225
+35,OGTT-2 Samples (FBS+2Hrs 75g Post Glucose Load),700,560,24 hours,224
+36,Blood for C/S (FAN Method),2000,1700,120 hours,222
+37,Total IgE,1500,1200,12 hours,217
+38,Prothrombin Time (INR),800,640,12 hours,211
+39,Ferritin,1200,960,12 hours,210
+40,Cholesterol (Total),400,320,12 hours,205
+41,Urine ACR (Albumin-Creatinine Ratio),N/A,N/A,24 hours,164
+42,"FT3, FT4, TSH",N/A,N/A,24 hours,154
+43,Iron Profile,4000,3200,12 hours,149
+44,Magnesium,1300,1040,12 hours,146
+45,Vitamin B-12,2500,2000,24 hours,140
+46,Alkaline phosphatase,500,400,12 hours,130
+47,Prolactin,1500,1200,12 hours,126
+48,Serum Inorganic Phosphate (PO4),600,480,12 hours,110
+49,Triglycerides (Tg),400,320,24 hours,107
+50,HOMA IR/Insulin Resistance Index (HOMA-IR),1500,1200,22 hours,106
+51,ESR,200,No Discount,12 hours,105
+52,Stool Routine Examination,300,240,12 hours,103
+53,Hb Electrophoresis,1600,1280,120 hours,98
+54,Anti HCV,1400,1120,12 hours,95
+55,Bilirubin (D/I),500,400,12 hours,94
+56,R. A. Test (Titre),800,640,12 hours,93
+57,PSA,1500,1200,48 hours,92
+58,Vitamin Profile (Extended),N/A,N/A,24 hours,92
+59,Potassium (K),300,240,12 hours,92
+60,CBC with PBF,800,720,24 hours,89
+61,VDRL,600,510,12 hours,89
+62,HIV I & II,1500,1200,48 hours,89
+63,Peripheral Blood Film (PBF),400,320,12 hours,89
+64,Plasma glucose 2 hrs after 75gm glucose,350,280,12 hours,88
+65,Full Body Checkup,15440,12384,12 hours,86
+66,NT-proBNP,3000,2400,12 hours,86
+67,Vaccine AROGGA,N/A,N/A,10 hours,78
+68,Ammonia,1300,1040,12 hours,71
+69,Iron,1400,1120,12 hours,70
+70,T4,1000,800,12 hours,69
+71,Febrile Antigens,1200,1020,12 hours,66
+72,Anti-CCP,2000,1600,12 hours,65
+73,FSH,1500,1200,12 hours,63
+74,Anti Mullerian Hormone (AMH),4000,3200,12 hours,61
+75,Cortisol (Morning)/BASAL CORTISOL (RANDOM),1400,1120,12 hours,61
+76,Cardiac Troponin-I (ES)/Troponin-I (ICT),1200,960,12 hours,60
+77,2 hrs postprandial Plasma glucose,200,160,12 hours,60
+78,Intact PTH,1500,1200,12 hours,59
+79,BUN,500,400,12 hours,59
+80,COVID-19 Rapid Antigen Test,N/A,N/A,12 hours,59
+81,Free T3 (FT3),1500,1200,12 hours,58
+82,CEA,1400,1120,22 hours,56
+83,Renal Function Test (RFT),2900,2030,24 hours,55
+84,Sexual Transmitted Disease (STD) Test Package,8120,6343,120 hours,54
+85,ICT for HBsAg,1000,800,24 hours,54
+86,Lactate,1400,1120,12 hours,53
+87,LH,1500,1200,12 hours,50
+88,CA 19-9,1400,1120,12 hours,50
+89,CA 125,1400,1120,12 hours,50
+90,Haemoglobin/HGB,200,160,12 hours,50
+91,Corresponding Urine Sugar with 2 hr. ABF,250,200,12 hours,50
+92,D - Dimer,1500,No Discount,12 hours,49
+93,Vitamin D3/D2,6000,4800,120 hours,48
+94,Pregnancy Test (HCG Level),1500,1200,12 hours,48
+95,Insulin (Fasting),1400,1120,12 hours,46
+96,Anti Nuclear Ab (ANA),1500,1200,12 hours,46
+97,Free Testosterone,2000,1600,24 hours,44
+98,Lipase,1400,1120,12 hours,43
+99,Platelets Count,300,No Discount,12 hours,41
+100,Urine for Pregnancy Test,300,255,12 hours,39
+101,T3,1000,800,12 hours,39
+102,Stool for C/S,1500,1275,120 hours,39
+103,Anti- TPO Ab,1400,1120,72 hours,38
+104,Diabetes Health Check Package,2760,2208,24 hours,36
+105,Progesterone,1500,1200,48 hours,36
+106,Comprehensive Health Assessment Package,3400,2800,24 hours,33
+107,Spot Urine Creatinine,500,400,12 hours,33
+108,Oestrogen/Estradiol (E2),1400,1120,12 hours,33
+109,H. Pylori - IgG,1500,1200,12 hours,32
+110,LDL - Cholesterol,400,320,12 hours,31
+111,Folate / Folic Acid,1400,1120,46 hours,31
+112,Stool for H. Pylori Antigen,1500,1200,24 hours,31
+113,Serum Procalcitonin,2000,No Discount,12 hours,30
+114,GGT (Gamma-Glutamyl Transferase),1200,960,12 hours,30
+115,Serum Amylase,1300,1040,12 hours,30
+116,Total Iron Binding Capacity (TIBC),1400,1120,12 hours,29
+117,QuantiFERON-TB Gold Plus,8000,6800,120 hours,27
+118,High Sensitive Troponin-I,1400,1120,12 hours,27
+119,LDH,1400,1120,12 hours,27
+120,Anti HBs,1400,1120,12 hours,26
+121,Anti HBc (Total),1400,1120,12 hours,26
+122,ACTH,1400,1120,12 hours,26
+123,Spot Urine Potassium (K),400,320,12 hours,26
+124,Urine for Albumin,400,320,12 hours,25
+125,APTT,1200,960,12 hours,25
+126,Allergy profile,8000,6400,120 hours,25
+127,"TC, DC, Hb%, ESR",500,No Discount,12 hours,24
+128,Stool for Occult Blood Test,400,320,12 hours,24
+129,Alpha Feto Protein,1400,1120,12 hours,24
+130,HSV 1 & 2 - IgG,1500,1200,12 hours,22
+131,C-Peptide,1500,1200,12 hours,22
+132,HDL - Cholesterol,400,320,12 hours,21
+133,CPK,1400,980,12 hours,20
+134,Anti HAV - (IgM),1400,1120,12 hours,20
+135,Valproic Acid,1500,1200,12 hours,20
+136,HLA-B27 Genotyping,4000,3400,12 hours,20
+137,Apolipoproteins B (APO-B),N/A,N/A,120 hours,20
+138,SHBG,1400,1120,48 hours,19
+139,Malarial Parasite,300,No Discount,12 hours,19
+140,Cortisol,1400,1120,12 hours,19
+141,Rubella - IgG,1400,1120,48 hours,19
+142,Typhoid and Paratyphoid Test,N/A,N/A,12 hours,19
+143,Spot Urine Uric Acid,500,400,12 hours,19
+144,Spot Urine Protein,700,560,12 hours,19
+145,Spot Urine Protein Creatinine Ratio,1100,880,12 hours,18
+146,Corresponding Urine Sugar with Fasting,250,200,12 hours,18
+147,GTT 1st,250,200,12 hours,18
+148,Spot Urine Calcium Creatinine Ratio,1100,880,12 hours,18
+149,Eid Wellness Plus,2020,1520,24 hours,18
+150,PCR for Dengue & Chikungunya,N/A,N/A,168 hours,17
+151,MMR Immunity Profile (IgG) Test,N/A,N/A,120 hours,17
+152,Plasma glucose 2 hrs after lunch,200,160,12 hours,17
+153,H. Pylori Antibody,1500,1200,12 hours,17
+154,Anti-ds DNA,1600,1280,12 hours,17
+155,Total Protein,700,560,12 hours,17
+156,"Chikungunya Virus, PCR Qualitative",N/A,N/A,168 hours,16
+157,Executive Basic Checkup for Female,10210,8168,12 hours,16
+158,Urine for Microalbumin,1300,1040,12 hours,16
+159,Tacrolimus Blood Level,4000,3400,12 hours,16
+160,VDRL (Qty),1200,1020,12 hours,16
+161,Lithium,1300,1040,24 hours,16
+162,Albumin Globulin Ratio,N/A,N/A,12 hours,16
+163,Executive Basic Checkup for Male,11260,9000,12 hours,15
+164,Sodium (Na),300,240,12 hours,15
+165,DHEA - SO4,1400,1120,120 hours,15
+166,Urine C/S for Anerobic,1500,1275,12 hours,15
+167,Plasma glucose 2 hrs after meal,200,160,12 hours,15
+168,Anti Thyroid Ab,2500,2000,12 hours,15
+169,IgM,1500,1200,12 hours,14
+170,Fecal Calprotectin (fCAL),5000,4000,72 hours,14
+171,ICT for Chikungunya IgM,1200,1020,12 hours,14
+172,Serum Bile Acid,N/A,N/A,120 hours,13
+173,Stool for Reducing Substance,300,240,12 hours,13
+174,IgG,1500,1200,24 hours,13
+175,Total HCG,1400,1120,12 hours,13
+176,Smart Health Check,N/A,N/A,24 hours,12
+177,Basic Allergy Screening Panel,1900,1600,24 hours,12
+178,Varicella Zoster Virus (VZV) IgG,N/A,N/A,120 hours,12
+179,Cardiac Screening package,8600,6880,12 hours,12
+180,ICT for Malaria (p.f/p.v),1500,1200,12 hours,12
+181,Homocysteine,3000,2400,48 hours,12
+182,Anti HEV - IgM,1400,1120,12 hours,12
+183,ASO Titre,800,680,12 hours,12
+184,GTT 2nd,250,200,12 hours,12
+185,Spot Urine Sodium (Na),400,320,12 hours,12
+186,ECHINOCOCCUS IgG,N/A,N/A,120 hours,11
+187,Urine for Ketone Bodies,400,320,12 hours,11
+188,Micro Albumin Creatinine Ratio,1300,1040,12 hours,11
+189,Weil Felix Test,N/A,N/A,12 hours,11
+190,Protein Electrophoresis,1600,1280,168 hours,10
+191,CA 15-3,1400,1120,12 hours,10
+192,Postprandial Plasma glucose,200,160,12 hours,10
+193,HBV-DNA (Quantitative),7000,5950,119 hours,10
+194,Serum Chlamydia IgG,1500,1200,120 hours,10
+195,Urine Albumin Creatinine Ratio (ACR),N/A,N/A,12 hours,10
+196,Glucose (2 Hours After Lunch)/2 Hours After Meal,N/A,N/A,2 Hours,10
+197,Pre-Marital Check-up program (Male/Female),8360,6768,24 hours,9
+198,Lupus Anticoagulants,5000,4000,72 hours,9
+199,Plasma glucose 2 hrs ABF (With Tablet / Insulin),200,160,12 hours,9
+200,TPHA,1000,800,24 hours,9
+201,TISSUE TRANSGLUTAMINASE (tTG)-IgA ANTIBODIES,2000,1600,120 hours,9
+202,ELISA Test for Dengue Ab.,N/A,N/A,12 hours,9
+203,RH Antibody Titre (Qualitative)/Anti D Titre.,N/A,N/A,24 hours,8
+204,Urinary Osmolality,1300,1040,12 hours,8
+205,Reticulocyte Count,300,No Discount,12 hours,8
+206,Spot Urine Electrolytes/Electrolytes Urine,1200,960,12 hours,8
+207,Plasma glucose 2 hrs after Iftar,200,160,12 hours,8
+208,Serum Osmolality,1400,1120,12 hours,8
+209,FDP - Fibrin Degradation Product (Quantitative) Test,1300,1040,24 hours,7
+210,ICT for Salmonella/Typhoid Test,N/A,N/A,24 hours,7
+211,TSH receptor antibodies (TRAb),3000,2400,120 hours,7
+212,Cortisol (Evening),1400,1120,12 hours,7
+213,P-ANCA,1500,1200,12 hours,7
+214,C-ANCA,1500,1200,12 hours,7
+215,Anti Phospholipid Antibody,2000,1600,12 hours,7
+216,17 Hydroxy Progesterone,2500,2000,12 hours,7
+217,HSV 1 & 2 - IgM,1500,1200,12 hours,7
+218,Free Testosterone (Pooled Serum),2000,1600,12 hours,7
+219,Circulating Eosinophil Count,400,No Discount,12 hours,7
+220,MCV,200,No Discount,12 hours,7
+221,STP AG Ratio,1300,1040,12 hours,7
+222,Karyotyping,N/A,N/A,600 hours,6
+223,C1 Esterase Inhibitor,N/A,N/A,120 hours,6
+224,Complement 4 (C4),1500,1200,48 hours,6
+225,Complement 3 (C3) test,1500,1200,48 hours,6
+226,Corresponding Urine Sugar with 1.5 hr. after 75 gm Glucose,250,200,12 hours,6
+227,CMV - IgG,1400,1120,12 hours,6
+228,Bicarbonate (HCO3),300,240,12 hours,6
+229,Anti-Cardiolipin antibody,2000,1600,12 hours,6
+230,Calcitonin,N/A,N/A,120 hours,6
+231,Urinary Inorganic Phosphate (PO4),600,480,12 hours,6
+232,Thyroid Check up,4000,2800,24 hours,6
+233,S. IgM for H.pylori,N/A,N/A,24 hours,5
+234,5α- DIHYDROTESTOSTERONE (5α- DHT),N/A,N/A,24 hours,5
+235,DRUG PANEL 4,N/A,N/A,24 hours,5
+236,Total Acid Phosphatase,1000,800,12 hours,5
+237,Phenytoin/Dilantin/Eptoin,N/A,N/A,120 hours,5
+238,Interleukin-6,2200,1760,48 hours,5
+239,HCT,250,No Discount,12 hours,5
+240,Pancreatic Amylase,N/A,N/A,12 hours,5
+241,GTT 3rd,250,200,12 hours,5
+242,Glucose Tolerance Test 3 hrs,250,200,12 hours,5
+243,Cannabinoids,1400,1120,12 hours,5
+244,Aldosterone Renin Ratio,N/A,N/A,24 hours,4
+245,VITAMIN B6/PYRIDOXAL - 5 - PHOSPHATE,N/A,N/A,7 hours,4
+246,HSV 2 - IgM,1400,1120,12 hours,4
+247,Spot Urine for Urea,400,320,12 hours,4
+248,Plasma glucose 2 hrs after 70 gm glucose,250,200,12 hours,4
+249,Plasma glucose 1 hour after 75gm glucose,250,200,1 hour,4
+250,Coombs Test Direct,600,510,12 hours,4
+251,Cystatin C Serum,N/A,N/A,120 hours,4
+252,Glucose-6 Phosphate Dehydrogenase (G6PD),N/A,N/A,24 hours,3
+253,Nicotine Metabolites,N/A,N/A,167 hours,3
+254,SERUM AMYLOID A PROTEIN,N/A,N/A,24 hours,3
+255,Brain Stroke Screening,6500,5400,12 hours,3
+256,TC - RBC,200,No Discount,12 hours,3
+257,Spot Urine Chloride (Cl)/Chloride Urine,500,400,12 hours,3
+258,Copper,1400,1120,12 hours,3
+259,Protein S,4000,3200,12 hours,3
+260,Protein C,4000,3200,12 hours,3
+261,HBe Ag,1400,1120,12 hours,3
+262,Erythropoietin(EPO),4000,3200,12 hours,3
+263,ENA Profile,8000,6400,72 hours,3
+264,Benzodiazepines,1400,1120,12 hours,3
+265,Transferrin saturation test,2000,1600,12 hours,3
+266,Glucose Tolerance Test 2.5 hrs,250,200,12 hours,3
+267,Film/Cell Morphology,400,320,12 hours,3
+268,Cyclosporine ( C0 )(B245),3000,2400,12 hours,3
+269,Anti-TG Ab,1400,1120,12 hours,3
+270,ICT for Syphilis,N/A,N/A,24 hours,3
+271,Beta 2 Glycoprotein IgM/Anti-B-2 Glycoprotein IgM,N/A,N/A,142 hours,3
+272,Insulin Antibody,N/A,N/A,12 hours,3
+273,Immunoglobulin-E (IgE),N/A,N/A,12 hours,3
+274,Urine for Urobilinogen,400,320,12 hours,3
+275,Globulin,1000,800,12 hours,3
+276,Digoxin,N/A,N/A,0 hours,3
+277,"PCR Jak-2 Mutation (EXON-14, V617F)",N/A,N/A,144 hours,2
+278,Basic Metabolic Panel (BMP),2900,2320,12 hours,2
+279,EPSTEIN BARR VIRAL CAPSID ANTIGEN - IgG,N/A,N/A,120 hours,2
+280,Elements 22 (Toxic And Nutrients),N/A,N/A,120 hours,2
+281,Lipoprotein Associated Phospholipasea2 (LP-Pla2),N/A,N/A,24 hours,2
+282,MERCURY,N/A,N/A,24 hours,2
+283,Treponema Pallidum Antibody (TPAB),N/A,N/A,72 hours,2
+284,Human Growth Hormone (HGH),N/A,N/A,24 hours,2
+285,METHAMPHETAMINE,N/A,N/A,24 hours,2
+286,SICKLE CELL TEST,N/A,N/A,24 hours,2
+287,HEMOGRAM,N/A,N/A,24 hours,2
+288,Urine for Sugar,250,200,12 hours,2
+289,TC - WBC,200,No Discount,12 hours,2
+290,Anti Scl-70/Anti Toppoisomerasei,1500,1200,121 hours,2
+291,Free PSA,1500,1200,48 hours,2
+292,Fibrinogen,1100,880,12 hours,2
+293,Plasma glucose 1 hour ABF/B/S 1 Hrs.ABF,200,160,1 hour,2
+294,HSV 1 - IgM,1400,1120,72 hours,2
+295,Anti HBc - IgM,1500,1200,12 hours,2
+296,Chloride (Cl),300,240,12 hours,2
+297,Anti Hbe,1400,1120,12 hours,2
+298,Angiotensin Converting Enzyme (ACE),4000,3200,12 hours,2
+299,Urinary Calcium,600,480,12 hours,2
+300,Toxo - IgM,1400,1120,12 hours,2
+301,Spot Urine Inorganic Phosphate,600,480,12 hours,2
+302,Renin (Upright),4000,3200,12 hours,2
+303,Plasma glucose 1.5 hrs ABF,200,160,12 hours,2
+304,Insulin(PP),1400,1120,12 hours,2
+305,Insulin (Random),1400,1120,12 hours,2
+306,ICT for Cannabinoids,700,560,12 hours,2
+307,ENA Panel (25 Antibodies),15000,12000,12 hours,2
+308,DLC,300,No Discount,12 hours,2
+309,Corresponding Urine sugar with postprandial plasma glucose,250,200,12 hours,2
+310,CMV - IgM,1400,1120,12 hours,2
+311,CD20,N/A,N/A,12 hours,2
+312,Acid Phosphatase,N/A,N/A,12 hours,2
+313,Growth Hormone Suppression Test,1400,1120,12 hours,2
+314,Serum-ascites albumin gradient(SAAG),1000,800,12 hours,2
+315,Ceruloplasmin (BLOOD CP),1400,1120,12 hours,2
+316,Beta 2 Glycoprotein IgG/Anti-B-2 Glycoprotein IgG,N/A,N/A,144 hours,2
+317,Growth Hormone,1500,1200,12 hours,2
+318,Prostate-Specific Antigen (Free) (FPSA),1000,800,12 hours,2
+319,Vitamin B Complex,N/A,N/A,120 hours,2
+320,Serum Ethanol,N/A,N/A,120 hours,2
+321,Creatinine Clearance Rate,1100,880,12 hours,2
+322,Aldolase,1300,1040,12 hours,2
+323,ALDOSTERONE / PLASMA RENIN DIRECT RATIO,N/A,N/A,168 hours,1
+324,LH/FSH Ratio Test,N/A,N/A,24 hours,1
+325,Zika Virus Antibody Test (IgM),N/A,N/A,120 hours,1
+326,Anti Glomerular Basement Membrane Protein IGG / Anti GBM Ab,N/A,N/A,24 hours,1
+327,BONE PROFILE - BASIC,N/A,N/A,24 hours,1
+328,FACTOR-V,N/A,N/A,24 hours,1
+329,LEPTOSPIRA-IgG,N/A,N/A,168 hours,1
+330,Varicella Zoster Virus (VZV) IgM,N/A,N/A,24 hours,1
+331,Anti-Saccharomyces Cerevisiae IgA Antibodies (ASCA IgA),N/A,N/A,24 hours,1
+332,BARBITURATES,N/A,N/A,24 hours,1
+333,Vitamin A,N/A,N/A,120 hours,1
+334,Rose Waaler (Quantitative),N/A,N/A,24 hours,1
+335,"Protein Profile (TP, ALB, GLB, AGR) Test",N/A,N/A,24 hours,1
+336,PHOSPHOLIPASE A2 RECEPTOR (PLA2R) ANTIBODY QUANTITATIVE,N/A,N/A,240 hours,1
+337,Urine for AFB,600,510,12 hours,1
+338,Urinary Amylase,1300,1040,12 hours,1
+339,Anti-RNP,1500,1200,12 hours,1
+340,ICT For Tuberculosis,1400,1190,12 hours,1
+341,ICT For Filaria,1400,1190,12 hours,1
+342,HSV 2 - IgG,1400,1120,12 hours,1
+343,HSV 1 - IgG,1400,1120,71 hours,1
+344,Factor IX,1400,1120,96 hours,1
+345,CK-MB,1400,1120,12 hours,1
+346,Carbondioxide (CO2),300,240,12 hours,1
+347,Bence-Jones Protein,800,640,12 hours,1
+348,Rubella - IgM,1400,1120,12 hours,1
+349,Urine Cytology for Malignant Cells,1200,1020,12 hours,1
+350,Urine C/S for Fungus,N/A,N/A,12 hours,1
+351,Toxo - IgG,1400,1120,12 hours,1
+352,Spot Urine Calcium,500,400,12 hours,1
+353,Rose Waaler Test (Titre),700,595,12 hours,1
+354,Rh Antibody(Anti- D Ab),1200,1020,12 hours,1
+355,Plasma glucose 3 hrs after 75 gm glucose/B.S.3H AFTER 75GM GLUCOSE,250,200,12 hours,1
+356,Plasma glucose 2 hour after 20gm glucose,230,184,2 hour,1
+357,Plasma glucose 1.5 hrs after meal,200,160,12 hours,1
+358,Plasma glucose 1 hr after meal,200,160,12 hours,1
+359,Plasma glucose 1 hour after 70 gm glucose,250,200,1 hour,1
+360,ICT for Amphitamine,700,560,12 hours,1
+361,HCV Genotyping,15000,12750,12 hours,1
+362,HBsAgQ2,2500,2000,12 hours,1
+363,GTT 5th,160,128,12 hours,1
+364,GTT 4th,160,128,12 hours,1
+365,Corresponding Urine Sugar with before Dinner,250,200,12 hours,1
+366,Corresponding Urine Sugar with 2 hrs after Lunch,250,200,12 hours,1
+367,Corresponding Urine Sugar with RPG,250,200,12 hours,1
+368,B2 - Microglobulin,1400,1120,12 hours,1
+369,Aldosterone (Upright),4000,3200,12 hours,1
+370,Arthritis Profile (COMPREHENSIVE),N/A,N/A,12 hours,1
+371,Coombs Test (D/I),1200,1020,12 hours,1
+372,Growth Hormone Stimulation Test,1400,1120,12 hours,1
+373,Inhibin B,N/A,N/A,12 hours,1
+374,HCV Rna (QUANTITATIVE),12000,9600,12 hours,1
+375,TORCH Panel,N/A,N/A,12 hours,1
+376,Herpes Simplex Virus Type 1 Ab IgM,N/A,N/A,12 hours,1
+377,Anti-Rubella IgG,1400,1120,12 hours,1
+378,Androstenedione (A4),N/A,N/A,12 hours,1
+379,Cyclosporine,3000,2400,12 hours,1
+380,MCHC,200,No Discount,12 hours,1
+381,Urine for Bile Salts,400,320,12 hours,1
+382,Urine for Bilirubin,400,320,12 hours,1
+383,Urinary Urea,350,280,12 hours,1
+384,Blood for ADA,1400,1120,12 hours,1
+385,THYROGLOBULIN (TG) test,N/A,N/A,118 hours,1
+386,Male Cancer Marker Panel,6300,5160,24 hours,1
+387,Measles (Rubeola) Antibodies Panel: IgG & IgM,N/A,N/A,144 hours,0
+388,Transferrin Urine,4000,2000,48 hours,0
+389,Transferrin Serum,N/A,N/A,24 hours,0
+390,Serum IgM Level,N/A,N/A,24 hours,0
+391,2 Hours After 100gm Glucose,N/A,N/A,2 Hours,0
+392,1 Hour After 50gm Glucose Test,N/A,N/A,1 Hour,0
+393,1 Hour After 100 gm Glucose Test,N/A,N/A,1 Hour,0
+394,Insulin to C-Peptide Ratio,N/A,N/A,48 hours,0
+395,PCR CMV DNA (Qualitative),N/A,N/A,48 hours,0
+396,Pregnancy Profile,7880,5698,24 hours,0
+397,Renin Activity,N/A,N/A,24 hours,0
+398,PACU (Pre Anesthetic Check-Up) Test Package,6200,4960,24 hours,0
+399,"Vitamin D 1,25 Dihydroxy",N/A,N/A,168 hours,0
+400,Serum IgA Level (CYTO),N/A,N/A,24 hours,0
+401,DC (Differential Count) Test,N/A,N/A,12 hours,0
+402,TUMOUR PANEL (FEMALE),N/A,N/A,48 hours,0
+403,Vitamin K Test,N/A,N/A,24 hours,0
+404,Vitamin E Test,N/A,N/A,24 hours,0
+405,"MANGANESE, BLOOD",N/A,N/A,24 hours,0
+406,(CA) CYFRA 21-1; LUNG CANCER MARKER,N/A,N/A,24 hours,0
+407,"LEPTOSPIRA ANTIBODIES PANEL IgG & IgM, EIA",N/A,N/A,24 hours,0
+408,Omega-6 to Omega-3,N/A,N/A,24 hours,0
+409,ISLET CELL ANTIBODY,N/A,N/A,24 hours,0
+410,Myoglobin-Serum,N/A,N/A,24 hours,0
+411,CA 72.4 (GASTRIC CANCER MARKER),N/A,N/A,24 hours,0
+412,Leptospira-Antibody ICT,N/A,N/A,1 hours,0
+413,Liver Kidney Microsomes (LKM),N/A,N/A,120 hours,0
+414,Arsenic Blood,N/A,N/A,166 hours,0
+415,Anti Centromere Ab,N/A,N/A,72 hours,0
+416,Nicotine Urine,N/A,N/A,24 hours,0
+417,"Sm (SMITH) ANTIBODY, IgG",N/A,N/A,24 hours,0
+418,IONIC CALCIUM,N/A,N/A,24 hours,0
+419,Anti-Saccharomyces cerevisiae IgG Antibodies,N/A,N/A,72 hours,0
+420,VITAMIN B7/BIOTIN,N/A,N/A,0 hours,0
+421,VITAMIN B5/PANTOTHENIC,N/A,N/A,120 hours,0
+422,VITAMIN B3/NICOTINIC ACID,N/A,N/A,120 hours,0
+423,VITAMIN B2/RIBOFLAVIN,N/A,N/A,120 hours,0
+424,Leptospira-IGM,N/A,N/A,120 hours,0
+425,BISMUTH,N/A,N/A,24 hours,0
+426,BARIUM,N/A,N/A,24 hours,0
+427,Anti TB IgM+IgG ( ICT ),N/A,N/A,24 hours,0
+428,INSULIN 2 HOURS AFT 75 GRAM GLUCOSE,N/A,N/A,2 HOURS,0
+429,CRYPTOCOCCUS LATEX AGGLUTINATION,N/A,N/A,72 hours,0
+430,ALPHA 2 MACROGLOBULIN,N/A,N/A,24 hours,0
+431,ALPHA1 ACID GLYCOPROTEIN,N/A,N/A,24 hours,0
+432,COAGULATION PROFILE-1,N/A,N/A,24 hours,0
+433,Carbamazepine / Tegretol,N/A,N/A,51 hours,0
+434,ANTI SCL - 70 ANTIBODY/Anti Toppoisomerasei,N/A,N/A,144 hours,0
+435,Entamoeba Histolytica - AG Test,N/A,N/A,168 hours,0
+436,Cytomegalo Virus (CMV) -IgG,N/A,N/A,24 hours,0
+437,Cytomegalo Virus (CMV) - IgM,N/A,N/A,24 hours,0
+438,Fructosamine,N/A,N/A,24 hours,0
+439,DRUG PANEL 3,N/A,N/A,24 hours,0
+440,PYRUVATE,N/A,N/A,24 hours,0
+441,METHADONE,N/A,N/A,72 hours,0
+442,KETAMINE,N/A,N/A,24 hours,0
+443,ALPHA HYDROXYBUTYRATE DEHYDROGENASE,N/A,N/A,24 hours,0
+444,PREALBUMIN,N/A,N/A,24 hours,0
+445,Anti Microsomal Antibody (AMA)/TPO,N/A,N/A,24 hours,0
+446,URINE LIPASE,N/A,N/A,24 hours,0
+447,DRUG PANEL 2 test,N/A,N/A,24 hours,0
+448,URINE CALCIUM CREATININE RATIO-SPOT,N/A,N/A,24 hours,0
+449,ENTAMOEBA HISTOLYTICA - IGG TEST,N/A,N/A,24 hours,0
+450,N ACETYL BETA D GLUCOSAMINIDASE.,N/A,N/A,24 hours,0
+451,Urine PH Test/Urine for PH,N/A,N/A,2 hours,0
+452,Thrombin-Antithrombin Complex (TAC),N/A,N/A,72 hours,0
+453,MEAN CORPUSCULAR HEMOGLOBIN; MCH,N/A,N/A,24 hours,0
+454,TLC (TOTAL LEUCOCYTE COUNT),N/A,N/A,0 hours,0
+455,"CHOLINESTERASE, SERUM",N/A,N/A,118 hours,0
+456,ANALYZER 18; SMA 18 TEST PANEL,N/A,N/A,24 hours,0
+457,TYPHI DOT/ SALMONELLA TYPHI IGM,N/A,N/A,24 hours,0
+458,Urinary V.M.A (Vanilmandelic Acid),2500,2000,12 hours,0
+459,Anti-Sm,1500,1200,12 hours,0
+460,IgA,1500,1200,12 hours,0
+461,ICT For Kalazar,1400,1190,12 hours,0
+462,Factor VIII,1400,1120,12 hours,0
+463,Factor VII,3000,2400,12 hours,0
+464,Brucella & Rickettsia,800,680,12 hours,0
+465,Anti-SS-B,1500,1200,12 hours,0
+466,Anti-SS-A,1500,1200,12 hours,0
+467,Corresponding Urine Sugar with 2 hrs after dinner,250,200,12 hours,0
+468,Corresponding Urine Sugar with 1 hr. ABF,250,200,12 hours,0
+469,WT1,4000,No Discount,12 hours,0
+470,Vi Antigen of S. Typhi,1200,1020,12 hours,0
+471,Urine for Wet Film,500,425,12 hours,0
+472,Urine for RBC (Morphology),300,240,12 hours,0
+473,Urine for Occult blood Test,400,320,12 hours,0
+474,Urine For Leu (Leukocytes),400,320,12 hours,0
+475,Urine for Haemoglobin,300,240,12 hours,0
+476,Urine for GeneXpert (MTB),6000,5100,12 hours,0
+477,Urine for Ferric Chloride Test,400,320,12 hours,0
+478,Urine for Bile Pigments,400,320,12 hours,0
+479,TTF1,4000,No Discount,12 hours,0
+480,Serum Immuno Electrophoresis,5000,4000,12 hours,0
+481,S100,4000,No Discount,12 hours,0
+482,Renin (Supine),4000,3200,12 hours,0
+483,PMS2,4000,No Discount,12 hours,0
+484,Plasma glucose before lunch,200,160,12 hours,0
+485,Plasma glucose 4 hrs after 75 gm glucose,250,200,12 hours,0
+486,Plasma glucose 30 minutes after 75gm glucose,250,200,12 hours,0
+487,Plasma glucose 2.5 hrs after 75 gm glucose/B.S.2.5 H AFTER 75GM GLUCOSE,250,200,12 hours,0
+488,Plasma glucose 2 hrs after 50gm glucose,250,200,12 hours,0
+489,Plasma glucose 1hr after lunch,200,160,12 hours,0
+490,Plasma glucose 1.5 hrs after 75gm glucose,250,200,12 hours,0
+491,Plasma glucose 1.5 hrs after 70 gm glucose,250,200,12 hours,0
+492,Plasma glucose 1.5 hrs after 50gm glucose,250,200,12 hours,0
+493,Plasma glucose 1 hour after 50gm glucose,250,200,1 hour,0
+494,Phenobarbital,1200,960,12 hours,0
+495,PH,500,400,12 hours,0
+496,PCN Tube (Urine) for Specific Gravity,300,240,12 hours,0
+497,PCN Tube (Urine) for PH,400,320,12 hours,0
+498,PCN Tube (Urine) for Creatinine,400,320,12 hours,0
+499,P53,4000,No Discount,12 hours,0
+500,MSH6,4000,No Discount,12 hours,0
+501,MSH2,4000,No Discount,12 hours,0
+502,MLH1/2/6,4000,No Discount,12 hours,0
+503,LE Cells,300,No Discount,12 hours,0
+504,ICT for Opiates,700,560,12 hours,0
+505,ICT for Morphine,1400,1120,12 hours,0
+506,ICT for Cocaine,700,560,12 hours,0
+507,ICT for Benzodiazepine,700,560,12 hours,0
+508,HER2,4000,No Discount,12 hours,0
+509,HCV-RNA (Qn.) PCR,12000,10200,12 hours,0
+510,HCV-RNA (Ql.) PCR,7000,5950,12 hours,0
+511,HCVAg(Quantitative),4000,3200,12 hours,0
+512,Gentamicin,1400,1120,12 hours,0
+513,ER,4000,No Discount,12 hours,0
+514,Cyclosporine ( C2 )(A245),3000,2400,12 hours,0
+515,Cortisol level before Injection,1000,800,12 hours,0
+516,Cortisol level 2 hrs. After Injection,1000,800,12 hours,0
+517,Corresponding Urine Sugar with 2.h after 75 gm Glucose,250,200,12 hours,0
+518,Cortisol level 1hr After Injection,1400,1120,12 hours,0
+519,Cortisol level 0.5 hr After Injection,1400,1120,12 hours,0
+520,Corresponding Urine Sugar with 1.h after 75 gm Glucose,250,200,12 hours,0
+521,Corresponding Urine Sugar with 1.5 hr. after Lunch,250,200,12 hours,0
+522,Corresponding Urine Sugar with 1.5 hr. ABF,250,200,12 hours,0
+523,Corresponding Urine Sugar with before Lunch,250,200,12 hours,0
+524,Corresponding Urine Sugar 2 hrs. after meal,250,200,12 hours,0
+525,Coombs Test Indirect,600,510,12 hours,0
+526,CD34,4000,No Discount,12 hours,0
+527,CD15,4000,No Discount,12 hours,0
+528,Calory Function Tests,1400,1120,12 hours,0
+529,Anti-Mitochondrial Antibody,1800,1440,12 hours,0
+530,Anti-Jo-I,1500,1200,12 hours,0
+531,ANA-HEp-2,N/A,N/A,144 hours,0
+532,Aldosterone (Supine),4000,3200,12 hours,0
+533,Jo-1 ANTIBODY,N/A,N/A,12 hours,0
+534,Inhibin A,N/A,N/A,120 hours,0
+535,Urine for AFB Stain,N/A,N/A,12 hours,0
+536,Anti-Rubella IgM,1400,1120,12 hours,0
+537,Anti Thyroglobulin (ATG),N/A,N/A,12 hours,0
+538,ELISA test for Anti TB IgM,1500,1200,12 hours,0
+539,ELISA test for Anti TB IgG,1500,1200,12 hours,0
+540,ELISA test for Anti TB IgA,1500,1200,12 hours,0
+541,Anti-Cardiolipin antibody (IgG IgM),3000,2400,12 hours,0
+542,MCH,200,No Discount,12 hours,0
+543,Urine for Specific Gravity,400,320,12 hours,0
+544,Urine For Nitrite,400,320,12 hours,0
+545,"Bence Jones Protein, Urine",N/A,N/A,12 hours,0
+546,Opiates,1400,1120,12 hours,0
+547,Cocaine,1400,1120,12 hours,0
+548,Amphetamine,1400,1120,12 hours,0
+549,Urine Amylase,N/A,N/A,12 hours,0
+550,Aldehyde Test,1300,1040,12 hours,0
+551,Anti Phospholipid Antibody (IgG IgM),N/A,N/A,72 hours,0
+552,HAPTOGLOBIN,N/A,N/A,120 hours,0
+553,Serum ZINC,N/A,N/A,72 hours,0
+554,Female Cancer Marker Panel,7000,5600,24 hours,0
+555,Vital Health Check,N/A,N/A,24 hours,0
